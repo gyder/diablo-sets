@@ -1,1 +1,1 @@
-# Diablo-sets
+# [Diablo-sets](PITCHME.md)
