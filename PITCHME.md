@@ -30,18 +30,19 @@
 ## Sunwoku
 
 @ul
+- Kopf: Tzo Krin's Blick
 - Schultern: Sunwukos Gleichgewicht
 - Brust: Sunwukos Seele
 - Handgelenke: Pintos Stolz
 - Hände: Sunwukos Pranken
 - Taille: Kyoshiros Seele
 - Beine: Sunwukos Hose
-- Füße: Eiskletterer oder Illusorische Stiefel
+- Füße: Illusorische Stiefel
 - Amulett: Sunwukos Glanz
 - Ring 1: Zusammenkunft der Elemente
-- Ring 2: Einheit (zusammen mit einem weiteren Einheit-Ring auf einem "unsterblichen" Begleiter)
+- Ring 2: Einheit (zusammen mit einem weiteren Einheit-Ring auf einem Begleiter)
 - Waffenhand: Kyoshiros Klinge
-- Schildhand: Rachsüchtiger WindKopf: Tzo Krin's Blick
+- Schildhand: Rachsüchtiger Wind 
 @ulend
 
 +++
