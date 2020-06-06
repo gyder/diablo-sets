@@ -2,7 +2,7 @@
 
 ---
 
-# Klassen
+## Klassen
 
 @ul
 - Mönch
@@ -16,7 +16,7 @@
 
 ---
 
-# Mönch
+## Mönch
 
 @ol
 - Sunwoku
@@ -27,7 +27,7 @@
 
 +++
 
-# Sunwoku
+## Sunwoku
 
 @ul
 - Kopf: Tzo Krin's Blick
@@ -42,7 +42,7 @@
 
 +++
 
-# Der Setbonus
+### Der Setbonus
 
 @ul
 - 2: Reduziert Euren erlittenen Schaden um 50%, während 'Reißender Wind' aktiv ist.
