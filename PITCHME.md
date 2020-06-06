@@ -40,7 +40,7 @@
 - Füße: Illusorische Stiefel
 - Amulett: Sunwukos Glanz
 - Ring 1: Zusammenkunft der Elemente
-- Ring 2: Einheit (zusammen mit einem weiteren Einheit-Ring auf einem Begleiter)
+- Ring 2: Einheit 
 - Waffenhand: Kyoshiros Klinge
 - Schildhand: Rachsüchtiger Wind 
 @ulend
