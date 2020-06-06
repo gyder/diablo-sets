@@ -42,7 +42,7 @@
 
 +++
 
-### Der Setbonus
+## Der Setbonus
 
 @ul
 - Set(2): Reduziert Euren erlittenen Schaden um 50%, während 'Reißender Wind' aktiv ist.
